@@ -18,6 +18,7 @@ Fractal images have properties no mainstream format offers:
 | --- | --- |
 | [**libfif**](https://github.com/FIF2-Project/libfif) | reference encoder and decoder (C library) and the `fif` command-line tool, with [downloads](https://github.com/FIF2-Project/libfif/releases/latest) for Windows and macOS |
 | [**fif2-spec**](https://github.com/FIF2-Project/fif2-spec) | the format specification and C header files of its structures |
+| [**fif-legacy**](https://github.com/FIF2-Project/fif-legacy) | converts legacy `.fif` files of the 1990s (Iterated Systems) to PNG: command-line tool and single-file C library |
 
 ### Learn more
 
